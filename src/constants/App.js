@@ -1,0 +1,6 @@
+export const SET_CURRENT_SCREEN = 'SET_CURRENT_SCREEN'
+
+export const SPLASH_SCREEN = 'SPLASH_SCREEN'
+export const LIST_SCREEN = 'LIST_SCREEN'
+export const STATS_SCREEN = 'STATS_SCREEN'
+export const RECORD_SCREEN = 'RECORD_SCREEN'
